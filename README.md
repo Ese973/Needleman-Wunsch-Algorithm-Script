@@ -1,1 +1,1 @@
-# Needleman-Wunsch-Algorithm-Script
+# Needleman-Wunsch-Algorithm-Tool
